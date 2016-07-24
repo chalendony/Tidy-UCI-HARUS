@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 README.md
 ========================================================
 
@@ -25,3 +26,7 @@ The data subset used in Tidy-UCI-HARUS consist of only the measurements on the m
 6. run_analysis.R : R-Script to create Tidy-UCI-HARUS for this exercise
 
 
+=======
+# Tidy-UCI-HARUS
+This repository (Tidy-UCI-HARUS) contains R-scripts and codebook for creating a tidy data set from a subset of the UCI Human Activity Recognition Using Smartphones Data Set.  The data used in this experiment represent data collected from the accelerometers from the Samsung Galaxy S smartphone. A full description is available at the site where the data was obtained:  http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones  The data subset used in Tidy-UCI-HARUS consist of only the measurements on the mean and standard deviation for each measurement in the original data set. 
+>>>>>>> 374606a3e99170b894661b18b504e21904ec297e
